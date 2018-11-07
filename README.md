@@ -15,3 +15,6 @@ This System is based on double entry accounting
 * There can be many accounts per project and only belong to one project, projects should not go between more than one group
 
 
+
+
+https://dba.stackexchange.com/questions/102370/double-entry-bookkeeping-database-design
