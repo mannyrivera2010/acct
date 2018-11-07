@@ -16,5 +16,7 @@ This System is based on double entry accounting
 
 
 
+Sites:
+https://dba.stackexchange.com/questions/102370/double-entry-bookkeeping-database-design    
+http://www.differencebetween.net/business/the-difference-between-liability-and-expense/
 
-https://dba.stackexchange.com/questions/102370/double-entry-bookkeeping-database-design
